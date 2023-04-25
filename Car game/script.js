@@ -1,6 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
 
-    let jatekos = document.querySelector('#hero');
+    let jatekos = document.querySelector('#jatekos');
+    let animationDuration = 2000; 
+    let interval = setInterval(Gyorsitas, 6000); 
 
     document.addEventListener('keydown', function(e) {
       if (e.key == 'ArrowLeft') {
@@ -31,5 +33,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   
 
-  
-  });
+  function Gyorsitas() {
+    animationDuration -= 150; 
+    road.style.animationDuration = animationDuration + 'ms'; 
+    console.log(Gyorsitas)
+}
+});
