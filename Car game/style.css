@@ -12,10 +12,11 @@ body {
 }
 
 #road {
-    width: 300px;
+    width: 1920px;
     height: 50.4vw;
-    background-image: url('road.jpg');
-    animation: moveRoad 2s linear infinite;
+    padding-left: 810px;
+    background-image: url('hatter.png');
+    animation: moveRoad 3s linear infinite;
     background-repeat: repeat-y;
     background-position: 0%;
 }
@@ -25,7 +26,7 @@ body {
         background-position-y: 0px;
     }
     100% {
-        background-position-y: 500px
+        background-position-y: 3240px
     }
 }
 
@@ -50,4 +51,3 @@ body {
         top: 500px
     }
 }
-
