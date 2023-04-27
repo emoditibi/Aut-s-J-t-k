@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
-
   let jatekos = document.querySelector('#jatekos');
-  let animationDuration = 3000; 
-  let interval = setInterval(Gyorsitas, 6000); 
-
+  let akadaly = document.querySelector('#akadaly');
+  let animationDuration = 4000; 
+  let interval = setInterval(Gyorsitas, 10000); 
+  pont = 0;
   document.addEventListener('keydown', function(e) {
     if (e.key == 'ArrowLeft') {
       lepesBalra();
@@ -31,11 +31,30 @@ document.addEventListener('DOMContentLoaded', function() {
           jatekos.style.left = JobbPos + 'px';
       }
   }
-
-
+  document.addEventListener('animationiteration', function() {
+  randomNumber = Math.floor(Math.random() * 3) * 100;
+  akadaly.style.left = randomNumber + 'px';
+})
 function Gyorsitas() {
-  animationDuration -= 200; 
+  animationDuration -= 150; 
   road.style.animationDuration = animationDuration + 'ms'; 
-  console.log(road.style.animationDuration)
-}
-});
+  console.log(road.style.animationDuration)}  
+
+
+     checkHalal = setInterval(function() {
+         pont++;
+         jatekosBal = parseInt(window.getComputedStyle(jatekos).getPropertyValue('left'))
+         akadalyBal = parseInt(window.getComputedStyle(akadaly).getPropertyValue('left'))
+         akadalytop = parseInt(window.getComputedStyle(akadaly).getPropertyValue('top'))
+         document.querySelector('#pont').innerHTML = 'pont: ' + pont
+         if (jatekosBal == akadalyBal && akadalytop >= 600) {
+             alert('A játéknak vége, pontjaid: ' + pont)
+             akadaly.style.animation = 'none';
+             road.style.animation = 'none';
+             akadaly.style.top = akadalytop + 'px'
+             console.log(akadalytop)
+             clearTimeout(checkHalal)
+         }
+     }, 100)
+})
+  
