@@ -1,0 +1,299 @@
+id	sakkozoid	nev	orszag
+1	1	Korchnoi, Viktor	SUI
+2	2	Portisch, Lajos	HUN
+3	3	Tukmakov, Vladimir B	UKR
+4	4	Gulko, Boris F	USA
+5	5	Huebner, Robert Dr.	GER
+6	6	Karpov, Anatoly	RUS
+7	7	Andersson, Ulf	SWE
+8	8	Vaganian, Rafael A	ARM
+9	9	Timman, Jan H	NED
+10	10	Romanishin, Oleg M	UKR
+11	11	Dorfman, Josif D	FRA
+12	12	Beliavsky, Alexander G	SLO
+13	13	Afromeev, Vladimir	RUS
+14	14	Spraggett, Kevin	CAN
+15	15	Nunn, John D.M.	ENG
+16	16	Speelman, Jonathan S.	ENG
+17	17	Eingorn, Vereslav S	UKR
+18	18	Vladimirov, Evgeny	KAZ
+19	19	Ftacnik, Lubomir	SVK
+20	20	Lputian, Smbat G	ARM
+21	21	Yermolinsky, Alex	USA
+22	22	Smagin, Sergey	RUS
+23	23	Dvoirys, Semen I.	RUS
+24	24	Psakhis, Lev	ISR
+25	25	Dolmatov, Sergey	RUS
+26	26	Gurevich, Mikhail	BEL
+27	26	Gurevich, Mikhail	TUR
+28	28	Sturua, Zurab	GEO
+29	29	Fominyh, Alexander	RUS
+30	30	Kaidanov, Gregory S	USA
+31	31	Jussupow, Artur	GER
+32	32	Chernin, Alexander	HUN
+33	33	Azmaiparashvili, Zurab	GEO
+34	34	Seirawan, Yasser	USA
+35	35	Nikolic, Predrag	BIH
+36	36	Ye, Jiangchuan	CHN
+37	37	Pigusov, Evgeny	RUS
+38	38	Damljanovic, Branko	SCG
+39	39	Glek, Igor V.	GER
+40	40	Novikov, Igor A	UKR
+41	40	Novikov, Igor A	USA
+42	42	Crisan, Alexandru	ROM
+43	43	Graf, Alexander	GER
+44	43	Nenashev, Alexander	UZB
+45	45	Xu, Jun	CHN
+46	46	Ehlvest, Jaan	EST
+47	46	Ehlvest, Jaan	USA
+48	48	Hjartarson, Johann	ISL
+49	49	Kuzmin, Alexey	RUS
+50	50	Sokolov, Andrei	FRA
+51	51	Morovic Fernandez, Ivan	CRO
+52	52	Kasparov, Garry	RUS
+54	54	Rozentalis, Eduardas	LTU
+55	55	Hodgson, Julian M.	ENG
+56	56	Milos, Gilberto	BRA
+57	57	Krasenkow, Michal	POL
+58	58	Benjamin, Joel	USA
+59	59	Salov, Valery	RUS
+60	60	Neverov, Valeriy	UKR
+61	61	Kotronias, Vasilios	CYP
+62	61	Kotronias, Vasilios	GRE
+63	63	Hansen, Curt	DEN
+64	64	Atalik, Suat	TUR
+65	65	Giorgadze, Giorgi	GEO
+66	66	Goldin, Alexander	ISR
+67	66	Goldin, Alexander	USA
+68	68	Adianto, Utut	INA
+69	69	Hickl, Joerg	GER
+70	70	Marin, Mihail	ROM
+71	71	Nijboer, Friso	NED
+72	72	Short, Nigel D	ENG
+74	74	Epishin, Vladimir	RUS
+75	75	Dautov, Rustem	GER
+76	76	Georgiev, Kiril	BUL
+77	76	Georgiev, Kiril	MKD
+78	78	Illescas Cordoba, Miguel	ESP
+79	79	Khalifman, Alexander	RUS
+80	80	Shipov, Sergei	RUS
+81	81	Magomedov, Magaram	RUS
+82	82	Kozul, Zdenko	CRO
+83	83	Agrest, Evgenij	SWE
+84	84	Bareev, Evgeny	RUS
+85	85	Minasian, Artashes	ARM
+86	86	Baburin, Alexander	IRL
+87	87	Granda Zuniga, Julio E	PER
+88	88	Conquest, Stuart	ENG
+89	89	Ibragimov, Ildar	USA
+90	90	Shabalov, Alexander	USA
+91	91	Smirin, Ilia	ISR
+92	92	Khenkin, Igor	GER
+93	93	Sokolov, Ivan	BIH
+94	93	Sokolov, Ivan	NED
+95	95	Wang, Zili	CHN
+96	96	Gelfand, Boris	ISR
+97	97	Kharlov, Andrei	RUS
+98	98	Piket, Jeroen	NED
+100	99	Dreev, Alexey	RUS
+101	101	Sermek, Drazen	SLO
+102	102	Ivanchuk, Vassily	UKR
+103	103	Korneev, Oleg	RUS
+104	104	Chuchelov, Vladimir	BEL
+105	105	Luther, Thomas	GER
+106	106	Anand, Viswanathan	IND
+107	107	Najdoski, Toni	MKD
+108	108	Hracek, Zbynek	CZE
+109	109	Degraeve, Jean-Marc	FRA
+110	110	Palac, Mladen	CRO
+111	111	Lutz, Christopher	GER
+112	112	Delchev, Aleksander	BUL
+113	113	Adams, Michael	ENG
+114	114	Akopian, Vladimir	ARM
+115	114	Akopian, Vladimir	GER
+116	116	Bologan, Viktor	MDA
+117	117	Tregubov, Pavel V.	RUS
+118	118	Landa, Konstantin	RUS
+119	119	Shirov, Alexei	ESP
+120	120	Mikhalevski, Victor	ISR
+121	121	Stefansson, Hannes	ISL
+122	122	Milov, Vadim	SUI
+123	123	Fedorov, Alexei	BLR
+124	124	Van Wely, Loek	NED
+125	125	Hamdouchi, Hichem	MAR
+126	126	Tiviakov, Sergei	NED
+127	127	Peng, Xiaomin	CHN
+128	128	Lautier, Joel	FRA
+129	129	Aleksandrov, Aleksej	BLR
+130	130	Nielsen, Peter Heine	DEN
+131	131	Rustemov, Alexander	RUS
+132	132	Tkachiev, Vladislav	FRA
+133	133	Kazhgaleyev, Murtas	KAZ
+134	134	Kotsur, Pavel	KAZ
+135	135	Miladinovic, Igor	GRE
+136	136	Volkov, Sergey	RUS
+137	137	Sakaev, Konstantin	RUS
+138	138	Sadler, Matthew	ENG
+140	140	Kamsky, Gata	USA
+141	141	Rublevsky, Sergei	RUS
+142	142	Topalov, Veselin	BUL
+143	143	Shulman, Yuri	BLR
+144	143	Shulman, Yuri	USA
+145	145	Kramnik, Vladimir	RUS
+146	146	Markowski, Tomasz	POL
+147	147	Onischuk, Alexander	UKR
+148	147	Onischuk, Alexander	USA
+149	149	Filippov, Valerij	RUS
+150	150	Istratescu, Andrei	FRA
+151	150	Istratescu, Andrei	ROM
+153	153	Fridman, Daniel	GER
+154	153	Fridman, Daniel	LAT
+155	155	Wu, Wenjin	CHN
+156	156	Papaioannou, Ioannis	GRE
+157	157	Svidler, Peter	RUS
+158	158	Shariyazdanov, Andrey	RUS
+159	159	Polgár, Judit	HUN
+161	161	Nisipeanu, Liviu-Dieter	ROM
+163	163	Zvjaginsev, Vadim	RUS
+164	164	Almási, Zoltán	HUN
+165	165	Pelletier, Yannick	SUI
+166	166	Pavasovic, Dusko	SLO
+167	167	Lastin, Alexander	RUS
+168	168	Bauer, Christian	FRA
+169	169	Korotylev, Alexey	RUS
+170	170	Malakhatko, Vadim	BEL
+171	171	Gyimesi, Zoltán	HUN
+172	172	Iordachescu, Viorel	MDA
+173	173	Najer, Evgeniy	RUS
+174	174	Kempinski, Robert	POL
+175	175	Morozevich, Alexander	RUS
+176	176	Sutovsky, Emil	ISR
+177	177	Macieja, Bartlomiej	POL
+178	178	Ivanisevic, Ivan	SRB
+179	179	Avrukh, Boris	ISR
+180	180	Baklan, Vladimir	UKR
+181	181	Amonatov, Farrukh	TJK
+183	183	Kobalija, Mihail	RUS
+184	184	Vescovi, Giovanni	BRA
+185	185	Zhang, Zhong	CHN
+186	185	Zhang, Zhong	SIN
+187	187	Movsesian, Sergei	ARM
+188	187	Movsesian, Sergei	CZE
+189	187	Movsesian, Sergei	SVK
+190	190	Socko, Bartosz	POL
+191	191	Miroshnichenko, Evgenij	UKR
+192	192	Galkin, Alexander	RUS
+193	193	Sadvakasov, Darmen	KAZ
+194	194	Van Den Doel, Erik	NED
+195	195	Mchedlishvili, Mikheil	GEO
+196	196	Motylev, Alexander	RUS
+197	197	Gustafsson, Jan	GER
+198	198	Lékó, Péter	HUN
+199	199	Kasimdzhanov, Rustam	UZB
+200	200	Turov, Maxim	RUS
+201	201	Solak, Dragan	SRB
+202	202	Asrian, Karen	ARM
+203	203	Moiseenko, Alexander	UKR
+204	204	Zhang, Pengxiang	CHN
+205	205	Vuckovic, Bojan	SRB
+206	206	Malakhov, Vladimir	RUS
+207	207	Sasikiran, Krishnan	IND
+208	208	Fedorchuk, Sergey A.	UKR
+209	209	Felgaer, Ruben	ARG
+210	210	Ács, Péter	HUN
+211	211	Postny, Evgeny	ISR
+212	212	Fressinet, Laurent	FRA
+214	214	Smirnov, Pavel	RUS
+216	216	Bruzon, Lazaro	CUB
+217	217	Potkin, Vladimir	RUS
+218	218	Ghaem Maghami, Ehsan	IRI
+219	219	Vallejo Pons, Francisco	ESP
+220	220	Aronian, Levon	ARM
+221	220	Aronian, Levon	GER
+222	222	Bocharov, Dmitry	RUS
+223	223	Bacrot, Etienne	FRA
+224	224	Ganguly, Surya Shekhar	IND
+225	225	Eljanov, Pavel	UKR
+226	226	Azarov, Sergei	BLR
+227	227	Ni, Hua	CHN
+228	228	Jakovenko, Dmitry	RUS
+229	229	Sandipan, Chanda	IND
+230	230	Sargissian, Gabriel	ARM
+233	233	Dominguez, Lenier	CUB
+234	234	Markus, Robert	SRB
+235	235	Roiz, Michael	ISR
+236	236	Ponomariov, Ruslan	UKR
+237	237	Grischuk, Alexander	RUS
+238	238	Jobava, Baadur	GEO
+239	239	Izoria, Zviad	GEO
+240	240	McShane, Luke J	ENG
+242	242	Lupulescu, Constantin	ROU
+243	243	Paragua, Mark	PHI
+244	244	Miton, Kamil	POL
+245	245	Gharamian, Tigran	FRA
+246	246	Belov, Vladimir	RUS
+247	247	Petrosian, Tigran L.	ARM
+248	248	Khismatullin, Denis	RUS
+249	249	Bartel, Mateusz	POL
+250	250	Gagunashvili, Merab	GEO
+251	251	Timofeev, Artyom	RUS
+252	252	Navara, David	CZE
+253	253	Nyback, Tomi	FIN
+254	254	Smeets, Jan	NED
+255	255	Mamedyarov, Shakhriyar	AZE
+257	257	Kurnosov, Igor	RUS
+258	258	Korobov, Anton	UKR
+259	259	Efimenko, Zahar	UKR
+260	260	Berkes, Ferenc	HUN
+261	261	Riazantsev, Alexander	RUS
+262	262	Naiditsch, Arkadij	GER
+263	263	Alekseev, Evgeny	RUS
+264	264	Inarkiev, Ernesto	RUS
+265	265	Bu, Xiangzhi	CHN
+266	266	Pantsulaia, Levan	GEO
+267	267	Grachev, Boris	RUS
+268	268	Harikrishna, P.	IND
+269	269	Guseinov, Gadir	AZE
+270	270	Areshchenko, Alexander	UKR
+271	271	Volokitin, Andrei	UKR
+272	272	Savchenko, Boris	RUS
+273	273	Gashimov, Vugar	AZE
+274	274	Cheparinov, Ivan	BUL
+275	275	Kryvoruchko, Yuriy	UKR
+276	276	Wojtaszek, Radoslaw	POL
+277	277	Vitiugov, Nikita	RUS
+278	278	Stellwagen, Daniel	NED
+279	279	Balogh, Csaba	HUN
+280	280	Radjabov, Teimour	AZE
+281	281	Wang, Yue	CHN
+282	282	Predojevic, Borki	BIH
+283	283	Tomashevsky, Evgeny	RUS
+284	284	Pashikian, Arman	ARM
+285	285	Meier, Georg	GER
+286	286	Nakamura, Hikaru	USA
+287	287	Laznicka, Viktor	CZE
+288	288	Ragger, Markus	AUT
+289	289	Fier, Alexandr	BRA
+290	290	Mamedov, Rauf	AZE
+291	291	Zhou, Jianchao	CHN
+292	292	Rodshtein, Maxim	ISR
+293	293	Zhigalko, Sergei	BLR
+294	294	Li, Chao b	CHN
+295	295	Wang, Hao	CHN
+296	296	Iturrizaga, Eduardo	VEN
+297	297	Karjakin, Sergey	RUS
+298	297	Karjakin, Sergey	UKR
+299	299	Andreikin, Dmitry	RUS
+300	300	Nguyen, Ngoc Truong Son	VIE
+301	301	Hammer, Jon Ludvig	NOR
+302	302	Nepomniachtchi, Ian	RUS
+303	303	Khairullin, Ildar	RUS
+304	304	Vachier-Lagrave, Maxime	FRA
+305	305	Carlsen, Magnus	NOR
+306	306	Feller, Sebastien	FRA
+307	307	Le, Quang Liem	VIE
+308	308	Caruana, Fabiano	ITA
+309	309	Ding, Liren	CHN
+310	310	So, Wesley	PHI
+311	311	Yu, Yangyi	CHN
+312	312	Giri, Anish	NED

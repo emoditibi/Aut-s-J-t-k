@@ -1,0 +1,281 @@
+id	szulnev	nem	szulorszag	szulovaros	szuldatum
+1	Korcsnoj, Viktor Lvovics	F	URS	Leningrad	1931.03.23
+2	Portisch, Lajos	F	HUN	Zalaegerszeg	1937.04.04
+3	Tukmakov, Vladimir B	F	URS	Odessa	1946.03.15
+4	Gulko, Boris F	F	GDR	Erfurt	1947.02.09
+5	Huebner, Robert	F	FRG	Cologne	1948.11.06
+6	Karpov, Anatoly	F	URS	Zlatoust	1951.05.23
+7	Andersson, Ulf	F	SWE	Västerås	1951.06.27
+8	Vaganian, Rafael Artemovich	F	URS	Yerevan	1951.10.15
+9	Timman, Jan Hendrik	F	NED	Amsterdam	1951.12.14
+10	Romanishin, Oleg Mikhailovich	F	URS	Lviv	1952.01.10
+11	Dorfman, Josif Davidovich	F	URS	Zhitomir	1953.05.01
+12	Beliavsky, Alexander Genrikhovich	F	URS	Lviv	1953.12.17
+13	Afromeev, Vladimir	F	URS	Tula	1954.04.02
+14	Spraggett, Kevin	F	CAN	Montreal	1954.11.10
+15	Nunn, John Denis Martin	F	ENG	London	1955.04.25
+16	Speelman, Jonathan Simon	F	ENG	London	1956.10.02
+17	Eingorn, Viacheslav	F	URS	Odessa	1956.11.23
+18	Vladimirov, Yevgeniy	F	URS	Alma-Ata	1957.01.20
+19	Ftáčnik, Ľubomír	F	TCH	Bratislava	1957.10.30
+20	Lputian, Smbat Gariginovich	F	URS	Yerevan	1958.02.14
+21	Yermolinsky, Alex	F	URS	Leningrad	1958.04.11
+22	Smagin, Sergey	F	URS	Norilsk	1958.09.08
+23	Dvoirys, Semen	F	URS	Chelyabinsk	1958.11.02
+24	Psakhis, Lev Borisovich	F	URS	Krasnoyarks	1958.11.29
+25	Dolmatov, Sergey	F	URS	Kiselyovsk	1959.02.20
+26	Gurevich, Mikhail Naumovich	F	URS	Kharkiv	1959.02.22
+28	Sturua, Zurab	F	URS	Tbilisi	1959.06.08
+29	Fominyh, Alexander	F	URS		1959.06.15
+30	Kaidanov, Gregory	F	URS	Berdychiv	1959.10.11
+31	Jussupow, Artur Mayakovich	F	URS	Moscow	1960.02.13
+32	Chernin, Alexander	F	URS	Kharkiv	1960.03.06
+33	Azmaiparashvili, Zurab	F	URS	Tbilisi	1960.03.16
+34	Seirawan, Yasser	F	SYR	Damascus	1960.03.24
+35	Nikolić, Predrag	F	YUG	Bosanski Šamac	1960.09.11
+36	Ye, Jiangchuan	F	CHN	Wuxi	1960.11.20
+37	Pigusov, Evgeny	F	URS	Kemerovo	1961.03.31
+38	Damljanovic, Branko	F	YUG	Novi Sad	1961.06.17
+39	Glek, Igor	F	URS	Moscow	1961.11.07
+40	Novikov, Igor	F	URS	Kharkiv	1962.05.23
+42	Crişan, Alexandru	F	ROM	Brașov	1962.07.31
+43	Graf, Alexander	F	URS	Tashkent	1962.08.25
+45	Xu, Jun	F	CHN	Suzhou	1962.09.17
+46	Ehlvest, Jaan	F	URS	Tallin	1962.10.14
+48	Hjartarson, Jóhann	F	ISL	Reykjavík	1963.02.08
+49	Kuzmin, Alexey	F	RUS		1963.03.08
+50	Sokolov, Andrei	F	URS	Vorkuta	1963.03.20
+51	Morovic Fernández, Iván Eduardo	F	CHI	Viña del Mar	1963.03.24
+52	Kasparov, Garry	F	URS	Baku	1963.04.13
+54	Rozentalis, Eduardas	F	URS	Vilnius	1963.05.27
+55	Hodgson, Julian M.	F	ENG	St Asaph	1963.07.25
+56	Milos, Gilberto	F	BRA	São Paulo	1963.10.30
+57	Krasenkow, Michal	F	URS	Moscow	1963.11.14
+58	Benjamin, Joel	F	USA	Brooklyn	1964.03.11
+59	Salov, Valery	F	POL	Wrocław	1964.05.26
+60	Neverov, Valeriy	F	UKR	Kharkiv	1964.06.21
+61	Kotronias, Vasilios	F	GRE	Athens	1964.08.25
+63	Hansen, Curt	F	DEN	Southern Jutland	1964.09.18
+64	Atalik, Suat	F	TUR	Istanbul	1964.10.10
+65	Giorgadze, Giorgi	F	GEO		1964.10.10
+66	Goldin, Alexander	F	URS	Novosibirsk	1965.02.27
+68	Adianto, Utut	F	INA	Jakarta	1965.03.16
+69	Hickl, Joerg	F	GER	Wiesbaden	1965.04.16
+70	Marin, Mihail	F	ROM	Bucharest	1965.04.21
+71	Nijboer, Friso	F	NED		1965.05.26
+72	Short, Nigel David	F	ENG	Leigh	1965.06.01
+74	Epishin, Vladimir	F	URS	Leningrad	1965.07.11
+75	Dautov, Rustem	F	URS	Ufa	1965.11.28
+76	Georgiev, Kiril	F	BUL	Petrich	1965.11.28
+78	Illescas Córdoba, Miguel	F	ESP	Barcelona	1965.12.03
+79	Khalifman, Alexander Valeryevich	F	URS	Leningrad	1966.01.18
+80	Shipov, Sergei	F	URS		1966.04.17
+81	Magomedov, Magaram	F	URS		1966.05.20
+82	Kožul, Zdenko	F	CRO	Bihać	1966.05.21
+83	Agrest, Evgenij	F	URS	Vitebsk	1966.08.15
+84	Bareev, Evgeny	F	URS	Chelyabinsk	1966.11.21
+85	Minasian, Artashes	F	URS	Yerevan	1967.01.21
+86	Baburin, Alexander	F	URS	Gorky	1967.02.19
+87	Granda Zúñiga, Julio Ernesto	F	PER	Camaná	1967.02.25
+88	Conquest, Stuart	F	ENG	Ilford	1967.03.01
+89	Ibragimov, Ildar	F	URS	Kazan	1967.08.16
+90	Shabalov, Alexander	F	URS	Riga	1967.09.12
+91	Smirin, Ilia	F	URS	Vitebsk	1968.01.21
+92	Khenkin, Igor	F	URS	Vladimir	1968.03.21
+93	Sokolov, Ivan	F	YUG	Jajce	1968.06.13
+95	Wang, Zili	F	CHN		1968.06.14
+96	Gelfand, Boris Abramovich	F	URS	Minsk	1968.06.24
+97	Kharlov, Andrei	F	URS	Prokopyevsk	1968.11.20
+98	Piket, Jeroen	F	NED	Leiden	1969.01.27
+99	Dreev, Alexey	F	URS	Stavropol	1969.01.30
+101	Sermek, Drazen	F	YUG	Osijek	1969.01.30
+102	Ivanchuk, Vassily	F	URS	Kopychyntsi	1969.03.18
+103	Korneev, Oleg Anatolyevich	F	URS		1969.07.25
+104	Chuchelov, Vladimir	F	URS	Moscow	1969.09.28
+105	Luther, Thomas	F	GER	Erfurt	1969.11.04
+106	Anand, Viswanathan	F	IND	Mayiladuthurai	1969.12.11
+107	Najdoski, Toni	F	YUG		1970.05.04
+108	Hráček, Zbyněk	F	TCH	Uherské Hradiště	1970.09.09
+109	Degraeve, Jean-Marc	F	FRA	Tourcoing	1971.01.26
+110	Palac, Mladen	F	YUG	Donji Mamići	1971.02.18
+111	Lutz, Christopher	F	GER	Neukirchen-Vluyn	1971.02.24
+112	Delchev, Aleksander	F	BUL	Sofia	1971.07.15
+113	Adams, Michael	F	ENG	Truro	1971.11.17
+114	Akopian, Vladimir	F	URS	Baku	1971.12.07
+116	Bologan, Viktor	F	URS	Chișinău	1971.12.14
+117	Tregubov, Pavel	F	URS	Krasnodar	1971.12.21
+118	Landa, Konstantin	F	URS	Omsk	1972.05.22
+119	Shirov, Alexei	F	URS	Riga	1972.07.04
+120	Mikhalevski, Victor	F	URS	Gomel	1972.07.08
+121	Stefansson, Hannes	F	ISL		1972.07.18
+122	Milov, Vadim	F	URS	Ufa	1972.08.01
+123	Fedorov, Alexei	F	URS	Mogilev	1972.09.27
+124	van Wely, Loek	F	NED	Heesch	1972.10.07
+125	Hamdouchi, Hichem	F	MAR	Tangier	1972.10.08
+126	Tiviakov, Sergei	F	URS	Krasnodar	1973.02.14
+127	Peng, Xiaomin	F	CHN		1973.04.08
+128	Lautier, Joel	F	CAN	Scarborough	1973.04.12
+129	Aleksandrov, Aleksej	F	URS		1973.05.11
+130	Nielsen, Peter Heine	F	DEN	Holstebro	1973.05.24
+131	Rustemov, Alexander	F	URS	Murmansk	1973.07.06
+132	Tkachiev, Vladislav	F	URS	Moscow	1973.11.09
+133	Kazhgaleyev, Murtas	F	URS	Oral	1973.11.17
+134	Kotsur, Pavel	F	URS	Tselinograd	1974.01.03
+135	Miladinovic, Igor	F	YUG		1974.01.25
+136	Volkov, Sergey	F	URS	Saransk	1974.02.07
+137	Sakaev, Konstantin	F	URS	Leningrad	1974.04.13
+138	Sadler, Matthew	F	ENG		1974.05.15
+140	Kamsky, Gata	F	USR	Novokuznetsk	1974.06.02
+141	Rublevsky, Sergei	F	URS	Kurgan	1974.10.15
+142	Topalov, Veselin	F	BUL	Rousse	1975.03.15
+143	Shulman, Yuri	F	URS	Minsk	1975.04.29
+145	Kramnik, Vladimir	F	URS	Tuapse	1975.06.25
+146	Markowski, Tomasz	F	POL	Głogów	1975.07.30
+147	Onischuk, Alexander	F	URS	Sevastopol	1975.09.03
+149	Filippov, Valerij	F	URS		1975.11.28
+150	Istrăţescu, Andrei	F	ROM		1975.12.03
+153	Fridman, Daniel	F	URS	Riga	1976.02.15
+155	Wu, Wenjin	F	CHN		1976.03.10
+156	Papaioannou, Ioannis	F	GRE		1976.04.20
+157	Svidler, Peter	F	URS	Leningrad	1976.06.17
+158	Shariyazdanov, Andrey	F	URS		1976.07.12
+159	Polgár, Judit	N	HUN	Budapest	1976.07.23
+161	Nisipeanu, Liviu-Dieter	F	ROM	Brașov	1976.08.01
+163	Zvjaginsev, Vadim	F	URS	Moscow	1976.08.18
+164	Almási, Zoltán	F	HUN	Járdánháza	1976.08.29
+165	Pelletier, Yannick	F	SUI	Biel	1976.09.22
+166	Pavasovič, Duško	F	YUG	Split	1976.10.15
+167	Lastin, Alexander	F	URS		1976.10.30
+168	Bauer, Christian	F	FRA	Forbach	1977.01.11
+169	Korotylev, Alexey	F	URS	Moscow	1977.03.01
+170	Malakhatko, Vadim	F	URS	Kiev	1977.03.22
+171	Gyimesi, Zoltán	F	HUN	Kecskemét	1977.03.31
+172	Iordachescu, Viorel	F	URS	Kishinev	1977.04.20
+173	Najer, Evgeniy	F	URS	Moscow	1977.06.22
+174	Kempiński, Robert	F	POL	Gdańsk	1977.07.11
+175	Morozevich, Alexander	F	URS	Moscow	1977.07.18
+176	Sutovsky, Emil	F	URS	Baku	1977.09.19
+177	Macieja, Bartłomiej	F	POL	Warsaw	1977.10.04
+178	Ivanišević, Ivan	F	YUG		1977.11.23
+179	Avrukh, Boris	F	URS	Karaganda	1978.01.08
+180	Baklan, Vladimir	F	URS	Kiev	1978.02.25
+181	Amonatov, Farrukh	F	URS		1978.04.13
+183	Kobalija, Mikhail	F	URS		1978.05.03
+184	Vescovi, Giovanni	F	BRA	Porto Alegre	1978.06.14
+185	Zhang, Zhong	F	CHN	Chongqing	1978.09.05
+187	Movsesian, Sergei	F	URS	Tbilisi	1978.11.03
+190	Soćko, Bartosz	F	POL	Piaseczno	1978.11.10
+191	Miroshnichenko, Evgenij	F	URS	Donetsk	1978.12.28
+192	Galkin, Alexander	F	URS	Rostov-on-Don	1979.02.01
+193	Sadvakasov, Darmen	F	URS	Leningrad	1979.04.28
+194	van den Doel, Erik	F	NED	Leiden	1979.05.15
+195	Mchedlishvili, Mikheil	F	URS		1979.06.04
+196	Motylev, Alexander	F	URS	Yekaterinburg	1979.06.17
+197	Gustafsson, Jan	F	GER	Hamburg	1979.06.25
+198	Léko, Péter	F	YUG	Subotica	1979.09.08
+199	Kasimdzhanov, Rustam	F	URS	Tashkent	1979.12.05
+200	Turov, Maxim	F	URS	Gukovo	1979.12.07
+201	Šolak, Dragan	F	YUG	Vrbas	1980.03.30
+202	Asrian, Karen	F	URS	Yerevan	1980.04.24
+203	Moiseenko, Alexander	F	URS	Severomorsk	1980.05.17
+204	Zhang, Pengxiang	F	CHN	Tianjin	1980.06.29
+205	Vuckovic, Bojan	F	YUG	Belgrad	1980.09.12
+206	Malakhov, Vladimir	F	URS	Ivanovo	1980.11.27
+207	Sasikiran, Krishnan	F	IND	Chennai	1981.01.07
+208	Fedorchuk, Sergey	F	URS		1981.03.14
+209	Felgaer, Rubén	F	ARG	Buenos Aires	1981.04.04
+210	Ács, Péter	F	HUN	Eger	1981.05.10
+211	Postny, Evgeny	F	ISR		1981.07.03
+212	Fressinet, Laurent	F	FRA	Dax	1981.11.30
+214	Smirnov, Pavel	F	URS	Mezhdurechensk	1982.04.27
+216	Bruzón Batista, Lázaro	F	CUB	Las Tunas	1982.05.02
+217	Potkin, Vladimir	F	URS	Rybinsk	1982.06.28
+218	Ghaem Maghami, Ehsan	F	IRI	Tehran	1982.08.11
+219	Vallejo Pons, Francisco	F	ESP	Es Castel	1982.08.21
+220	Aronian, Levon	F	URS	Yerevan	1982.10.06
+222	Bocharov, Dmitry	F	URS		1982.10.20
+223	Bacrot, Étienne	F	FRA	Lille	1983.01.22
+224	Ganguly, Surya Shekhar	F	IND	Kolkata	1983.02.24
+225	Eljanov, Pavel	F	URS	Kharkiv	1983.05.10
+226	Azarov, Sergei	F	URS	Minsk	1983.05.19
+227	Ni, Hua	F	CHN	Shanghai	1983.05.31
+228	Jakovenko, Dmitry	F	URS	Omsk	1983.06.28
+229	Sandipan, Chanda	F	IND	Kolkata	1983.08.13
+230	Sargissian, Gabriel	F	URS	Yerevan	1983.09.03
+233	Dominguez, Lenier	F	CUB	Havana	1983.09.23
+234	Markuš, Robert	F	YUG	Bačka Topola	1983.10.07
+235	Roiz, Michael	F	URS		1983.10.10
+236	Ponomariov, Ruslan	F	URS	Horlivka	1983.10.11
+237	Grischuk, Alexander	F	URS	Moscow	1983.10.31
+238	Jobava, Baadur	F	URS	Gali	1983.11.26
+239	Izoria, Zviad	F	URS	Khoni	1984.01.06
+240	McShane, Luke	F	ENG	London	1984.01.07
+242	Lupulescu, Constantin	F	ROM	Buftea	1984.03.25
+243	Paragua, Mark	F	PHI		1984.03.29
+244	Mitoń, Kamil	F	POL	Kraków	1984.04.12
+245	Gharamian, Tigran	F	URS	Yerevan	1984.07.24
+246	Belov, Vladimir	F	URS	Kirzhach	1984.08.06
+247	Petrosian, Tigran L.	F	URS	Yerevan	1984.09.17
+248	Khismatullin, Denis	F	URS	Neftekamsk	1984.12.28
+249	Bartel, Mateusz	F	POL	Warsaw	1985.01.03
+250	Gagunashvili, Merab	F	URS	Tbilisi	1985.01.03
+251	Timofeev, Artyom	F	URS	Kazan	1985.01.06
+252	Navara, David	F	TCH	Prague	1985.03.27
+253	Nybäck, Tomi	F	FIN	Järvenpää	1985.04.03
+254	Smeets, Jan	F	NED	Leiden	1985.04.05
+255	Mamedyarov, Shakhriyar	F	URS	Sumqayit	1985.04.12
+257	Kurnosov, Igor	F	URS	Chelyabinsk	1985.05.30
+258	Korobov, Anton	F	URS	Kemerovo	1985.06.25
+259	Efimenko, Zahar	F	URS	Makiivka	1985.07.03
+260	Berkes, Ferenc	F	HUN	Baja	1985.08.08
+261	Riazantsev, Alexander	F	URS	Moscow	1985.09.12
+262	Naiditsch, Arkadij	F	URS	Riga	1985.10.25
+263	Alekseev, Evgeny	F	URS	Pushkin	1985.11.28
+264	Inarkiev, Ernesto	F	URS	Osh	1985.12.09
+265	Bu, Xiangzhi	F	CHN	Qingdao	1985.12.10
+266	Pantsulaia, Levan	F	URS		1986.02.26
+267	Grachev, Boris	F	URS	Moscow	1986.03.27
+268	Harikrishna, Pendyala	F	IND	Guntur	1986.05.10
+269	Huseynov, Qadir	F	URS	Moscow	1986.05.21
+270	Areshchenko, Alexander	F	URS	Luhansk	1986.06.15
+271	Volokitin, Andrei	F	URS	Lviv	1986.06.18
+272	Savchenko, Boris	F	URS	Krasnodar	1986.07.10
+273	Gashimov, Vugar	F	URS	Baku	1986.07.24
+274	Cheparinov, Ivan	F	BUL	Asenovgrad	1986.11.26
+275	Kryvoruchko, Yuriy	F	URS	Lviv	1986.12.19
+276	Wojtaszek, Radosław	F	POL	Elbląg	1987.01.13
+277	Vitiugov, Nikita	F	URS	Leningrad	1987.02.04
+278	Stellwagen, Daniël	F	NED	Soest	1987.03.01
+279	Balogh, Csaba	F	HUN	Budapest	1987.03.10
+280	Radjabov, Teimour	F	URS	Baku	1987.03.12
+281	Wang, Yue	F	CHN	Taiyuan	1987.03.31
+282	Predojević, Borki	F	YUG	Teslić	1987.04.06
+283	Tomashevsky, Evgeny	F	URS	Saratov	1987.07.01
+284	Pashikian, Arman	F	URS	Irkutsk	1987.07.28
+285	Meier, Georg	F	GER	Trier	1987.08.26
+286	Nakamura, Hikaru	F	JPN	Hirakata	1987.12.09
+287	Láznička, Viktor	F	TCH	Pardubice	1988.01.09
+288	Ragger, Markus	F	AUT	Klagenfurt	1988.02.05
+289	Fier, Alexandr	F	BRA	Joinville	1988.03.11
+290	Mamedov, Rauf	F	URS	Baku	1988.04.26
+291	Zhou, Jianchao	F	CHN	Shanghai	1988.11.06
+292	Rodshtein, Maxim	F	URS	Leningrad	1989.01.19
+293	Zhigalko, Sergei	F	URS		1989.03.28
+294	Li, Chao	F	CHN	Taiyuan	1989.04.21
+295	Wang, Hao	F	CHN	Harbin	1989.08.04
+296	Iturrizaga, Eduardo	F	VEN	Caracas	1989.11.01
+297	Karjakin, Sergey	F	URS	Simferopol	1990.01.12
+299	Andreikin, Dmitry	F	URS	Ryazan	1990.02.05
+300	Nguyễn, Ngọc Trường Sơn	F	VIE		1990.02.23
+301	Hammer, Jon Ludvig	F	NOR	Bergen	1990.06.02
+302	Nepomniachtchi, Ian	F	RUS	Bryansk	1990.07.14
+303	Khairullin, Ildar	F	RUS	Perm	1990.08.22
+304	Vachier-Lagrave, Maxime	F	FRA	Nogent-sur-Marne	1990.10.21
+305	Carlsen, Magnus	F	NOR	Tønsberg	1990.11.30
+306	Feller, Sébastien	F	FRA	Thionville	1991.03.11
+307	Lê, Quang Liêm	F	VIE	Ho Chi Minh City	1991.03.13
+308	Caruana, Fabiano Luigi	F	USA	Miami	1992.07.30
+309	Ding, Liren	F	CHN	Wenzhou	1992.10.24
+310	So, Wesley	F	PHI	Bacoor	1993.10.09
+311	Yu, Yangyi	F	CHN	Huangshi	1994.06.08
+312	Giri, Anish	F	RUS	Saint Petersburg	1994.06.28
