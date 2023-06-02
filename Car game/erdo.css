@@ -45,20 +45,48 @@ body {
     width: 100px;
     height: 100px;
     position: relative;
-    top: 800px;
+    top: 700px;
     left: 100px;
     background-image: url('1.png');
     background-size: 50% 100%;
     background-repeat: no-repeat;
     background-position-x: 50%;
-    animation: blockjatekos 1.5s linear infinite
+    animation: blockjatekos 2s linear infinite;
+
 }
+#penz1 {
+    width: 300px;
+    height: 100px;
+    position: relative;
+    top:-300px;
+    left: 0px;
+    background-image: url('kepek/penz.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    animation: penz1 2.8s linear infinite;
+    animation-delay: 5s;
+}
+
 
 @keyframes blockjatekos {
     0% {
         top: -100px;
     }
     100% {
-        top: 800px
+        top: 600px
     }
 }
+
+@keyframes penz1 {
+    0% {
+        top: -300px;
+    }
+    100% {
+        top: 700px
+    }
+}
+
+
+
+
